@@ -1,0 +1,5 @@
+# All node modules that have been downloaded
+node_modules
+
+# The generated index.js file
+index.js
